@@ -24,13 +24,14 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'Lora Johns',
       email: 'lora.r.johns@gmail.com',
-      telegram: '#',
       twitter: 'https://twitter.com/biblioniffler',
+      telegram: '#',
       github: 'https://github.com/lorarjohns',
       rss: '#',
       vk: '#',
+
     },
   },
   plugins: [
