@@ -4,10 +4,13 @@ layout: page
 path: "/about"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hi, I'm Lora. I'm currently a student at the Flatiron School studying data science. Before I came here, I got a degree in linguistics from Dartmouth College and a J.D. from Yale Law School.
+After clerking and practicing for a while as a lawyer, I got my master's degree in library and information science from Simmons University.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+That's where I started studying Python, SQL, and database design and management, and realized I could leverage my linguistics background and my law knowledge to do cool things with legal data.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+![A photo of some books and stuff.](./1.jpg)
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+*A photo of some books and stuff.*
+
+This blog will document my journey through Flatiron School's data science program and hopefully manage to inform and entertain you along the way.
