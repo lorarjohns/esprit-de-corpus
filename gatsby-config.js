@@ -3,7 +3,7 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    siteUrl: 'www.espritdecorpus.com',
+    siteUrl: 'http://www.espritdecorpus.com/',
     url: 'www.espritdecorpus.com',
     title: 'Blog by Lora Johns',
     subtitle:
