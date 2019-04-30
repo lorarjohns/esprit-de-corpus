@@ -16,7 +16,7 @@ description: "In which the author jumps into a project before they feel qualifie
 
 I am a recovering perfectionist. I jones for total knowledge of a subject before I start an endeavor. I love the high of getting it right on the first try. I get the DTs when I have an unfinished to-do list. I crave the security of feeling like I am in total control of a project.
 
-But we all know that isn't how real life works. For one thing, we have to collaborate, so no one can (or should) have total control over any project. 
+But we all know that isn't how real life works. For one thing, we have to collaborate, so no one can (or should) have total control over any project. For another, if we tried to wait until we knew "enough" to start a project, we'd never get anything done.
 
 ## Everyone Is an Impostor, So Relax and Get Messy
 
@@ -32,9 +32,10 @@ Here's the truth of the matter: You will never be 'ready' to start. No one is.
 
 * You're never going to read all the documentation or exhaust the literature.
 * Even if you did, you wouldn't know what's worth retaining and what's not, because you haven't applied it to a real problem.
+* Even if you think you know everything, you can't foresee all the problems and questions that will pop up as you go.
 * You will **not** get it perfect the first time you try it.
 
-[Research says](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxlm0000073) that making mistakes strengthens your learning and recall.
+The good news is that [research says](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxlm0000073) that making mistakes strengthens your learning and recall. So jumping in and starting with the tools you've got is often the fastest way to make progress.
 
 ## ...But Make Tactical Messes
 
@@ -44,7 +45,7 @@ Here's the truth of the matter: You will never be 'ready' to start. No one is.
 </figure>
 
 
-If you can't have omniscience, you need something to fall back on when you get stuck. I recommend flexing your research muscles. Give as much care to formulating questions and searching for their answers as you do to your code. Ask yourself:
+If you can't have omniscience, you need something to rescue you when you get stuck. I like to call this hacking your research. Give as much care to formulating questions and searching for their answers as you do to your code. Ask yourself:
 
 * Am I asking the **right** question? 
 * How did I phrase my question? Could I use other, more specific (or more general) keywords to target the information I need?
@@ -63,10 +64,19 @@ Using [Gatsby](https://www.gatsbyjs.org/) and [Netlify](), you can create a stat
 
 ### Problem 0: GitHub is a Git
 
+I haven't used GitHub in any systematic way until Flatiron School.
+
+<figure style="width: 700px">
+	<img src="./git.png" alt="Git, https://xkcd.com/1597/">
+	<figcaption>This was me.</figcaption>
+</figure>
+
+Choosing this blogging platform forced me to really learn how to use GitHub properly and competently manipulate files via the command line. Did I delete my entire repo and start over at least once (okay, twice)? Yes. But the long and tedious process of setting up this blog made me a _lot_ better at git and GitHub. 
+
 ### Problem 1: I'm not a web dev
 
 Gatsby is based on React, which I don't know (I'm not a JavaScript guru -- the last time I did front-end web development was in graduate school).
 
-When I first set up my blog from one of the templates I forked on GitHub, I got a lot of weird errors. Many of them came with alarming-looking warnings in the Terminal and had to do with uninstalled dependencies. Rather than panic, 
+When I first set up my blog from one of the templates I forked on GitHub, I got a lot of weird errors. Many of them came with alarming-looking warnings in the Terminal and had to do with uninstalled dependencies. Most of them were opaque to me on first glance, but my research-library background means I have the patience and skills to systematically  
 
 When I first tried to deploy my blog, I got some weird error messages
