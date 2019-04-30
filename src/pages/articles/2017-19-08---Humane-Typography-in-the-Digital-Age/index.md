@@ -2,7 +2,7 @@
 title: Humane Typography in the Digital Age
 date: "2017-08-19T22:40:32.169Z"
 layout: post
-draft: false
+draft: true
 path: "/posts/humane-typography-in-the-digital-age/"
 category: "Typography"
 tags:
