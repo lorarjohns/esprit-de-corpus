@@ -9,7 +9,7 @@ tags:
   - "Research"
   - "FlatironSchool"
   - "Git"
-  - "Github"	
+  - "Github"
 description: "In which the author jumps into a project before they feel qualified, with solid research skills as a safety net"
 ---
 # Dr. Data: Or How I Learned to Stop Worrying and Love the Chaos
@@ -47,7 +47,7 @@ The good news is that [research says](https://psycnet.apa.org/doiLanding?doi=10.
 
 If you can't have omniscience, you need something to rescue you when you get stuck. I like to call this hacking your research. Give as much care to formulating questions and searching for their answers as you do to your code. Ask yourself:
 
-* Am I asking the **right** question? 
+* Am I asking the **right** question?
 * How did I phrase my question? Could I use other, more specific (or more general) keywords to target the information I need?
 * What databases have I checked? (If you've only checked Google and StackExchange, you're not thinking creatively enough.) Where else might this information live?
 * How did I query those databases? (If you're only using natural-language searching, you're missing out on a lot.)
@@ -58,9 +58,9 @@ As a Flatiron student, I blog about data science. But where would I host that bl
 
 But while I've learned to kick the perfectionist tendencies, I still set the bar high for myself. I expect a lot, and "easy" is seldom the path I want to take.
 
-Part of learning data science is learning to master git and GitHub. So when I learned there was a way to blog using GitHub, how could I resist? 
+Part of learning data science is learning to master git and GitHub. So when I learned there was a way to blog using GitHub, how could I resist?
 
-Using [Gatsby](https://www.gatsbyjs.org/) and [Netlify](), you can create a static blog, put it in a GitHub repo, and push posts to it from your local repository. I encountered two problems and solved them using the analytical framework I prescribe above.
+Using [Gatsby](https://www.gatsbyjs.org/) and [Netlify](https://www.netlify.com/), you can create a static blog, put it in a GitHub repo, and push posts to it from your local repository. I encountered two problems and solved them using the analytical framework I prescribe above.
 
 ### Problem 0: GitHub is a Git
 
@@ -71,22 +71,15 @@ I haven't used GitHub in any systematic way until Flatiron School.
 	<figcaption>This was me.</figcaption>
 </figure>
 
-Choosing this blogging platform forced me to really learn how to use GitHub properly and competently manipulate files via the command line. Did I delete my entire repo and start over at least once (okay, twice)? Yes. But the long and tedious process of setting up this blog made me a _lot_ better at git and GitHub. 
+Choosing this blogging platform forced me to really learn how to use GitHub properly and competently manipulate files via the command line. Did I delete my entire repo and start over at least once (okay, twice)? Yes. But the long and tedious process of setting up this blog made me a _lot_ better at git and GitHub.
 
 ### Problem 1: I'm not a web dev
 
-Gatsby is based on React, which I don't know (I'm not a JavaScript guru -- the last time I did front-end web development was in graduate school).
-
 When I first set up my blog, I forked a template from a repo on GitHub. As I set it up to work with Netlify, I got a lot of weird errors. Many came with alarming-looking warnings, most of which were opaque to me on first glance. But my research-library background means I have the patience and skills to not panic. Instead, I systematically broke down each error message, then Googled and researched what each one meant and how to fix it. (For one thing, I had to install a bunch of dependencies.)    
 
-When I first tried to deploy my blog, I got some weird error messages
+The first time I tried to deploy my blog, I got some weird error messages. Methodical Googling with boolean searching taught me a lot about both how to fix them and about how these platforms work.
+Gatsby is based on React, which I don't know (I'm not a JavaScript guru -- the last time I did front-end web development was in graduate school). I got some error messages related to variables in the code, which I tried to fix myself and also messaged Netlify tech support about. I had already Googled the solution they suggested, which didn't work, so I went looking in other documentation for answers. I found a thread on the GitHub repo of the blog template I forked in which someone had the same problem I did, and returned to comment with a fix that worked for them. I tried my own version of it, which succeeded, and passed the info on to Netlify's tech support. (You can take the reference librarian out of the library...)
 
+## Google-Fu: Your Secret Weapon
 
-<figure>
-	<blockquote>
-		<p>All that has been written to me about that marvelous man seen at Frankfurt is true. I have not seen complete Bibles but only a number of quires of various books of the Bible. The script was very neat and legible, not at all difficult to follow—your grace would be able to read it without effort, and indeed without glasses.</p>
-		<footer>
-			<cite>—Future pope Pius II in a letter to Cardinal Carvajal, March 1455</cite>
-		</footer>
-	</blockquote>
-</figure>
+Despite not feeling ready to start, I managed to get traction with my blog project through a combination of curiosity and tactical research savvy. Knowing _how_ to find information is often more important than knowing the information itself.
