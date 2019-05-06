@@ -77,6 +77,16 @@ Choosing this blogging platform forced me to really learn how to use GitHub prop
 
 Gatsby is based on React, which I don't know (I'm not a JavaScript guru -- the last time I did front-end web development was in graduate school).
 
-When I first set up my blog from one of the templates I forked on GitHub, I got a lot of weird errors. Many of them came with alarming-looking warnings in the Terminal and had to do with uninstalled dependencies. Most of them were opaque to me on first glance, but my research-library background means I have the patience and skills to systematically  
+When I first set up my blog, I forked a template from a repo on GitHub. As I set it up to work with Netlify, I got a lot of weird errors. Many came with alarming-looking warnings, most of which were opaque to me on first glance. But my research-library background means I have the patience and skills to not panic. Instead, I systematically broke down each error message, then Googled and researched what each one meant and how to fix it. (For one thing, I had to install a bunch of dependencies.)    
 
 When I first tried to deploy my blog, I got some weird error messages
+
+
+<figure>
+	<blockquote>
+		<p>All that has been written to me about that marvelous man seen at Frankfurt is true. I have not seen complete Bibles but only a number of quires of various books of the Bible. The script was very neat and legible, not at all difficult to follow—your grace would be able to read it without effort, and indeed without glasses.</p>
+		<footer>
+			<cite>—Future pope Pius II in a letter to Cardinal Carvajal, March 1455</cite>
+		</footer>
+	</blockquote>
+</figure>
