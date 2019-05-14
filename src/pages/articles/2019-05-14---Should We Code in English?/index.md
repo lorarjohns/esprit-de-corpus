@@ -62,7 +62,7 @@ It's also free and open-source, which means anyone with a computer and some moxi
 
 <figure style="width: 900px">
 	<img src="./stats.png" alt="Diversity in Tech, https://informationisbeautiful.net/visualizations/diversity-in-tech/">
-	<figcaption>“Diversity in Tech, InformationIsBeautiful.net</figcaption>
+	<figcaption>Diversity in Tech, InformationIsBeautiful.net</figcaption>
 </figure>
 
 Human brains can do things computers cannot do––like recognize that ewes, does, lionesses, hens, and sows are all female animals. Our cognition means that our language can afford to be less literally precise and more metaphorical. (A computer would need, say, explicit XML tags and attributes to achieve the same categorization.) At some point, then, every serious programmer will need to learn things like regular expressions and formal syntactic conventions.
