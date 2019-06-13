@@ -1258,6 +1258,6 @@ After accounting for the discrepancies in the data, we can calculate that respir
 
 ![png](output_29_1.png)
 
-The average number of respiratory arrests per month unaccompanied by cardiac failure is approximately 1-2, with large fluctuations. That's not particularly rare, and certainly not rare enough to send a nurse to prison for life. (You can read more about the case and this data [here](https://arxiv.org/abs/1407.2731).)
+The average number of respiratory arrests per month unaccompanied by cardiac failure is approximately 1-2, with large fluctuations. That's not particularly rare, and certainly not rare enough to send a nurse to prison for life. (You can read more about the case and this data [here](https://arxiv.org/abs/1407.2731) and see my jupyter notebook [here](https://nbviewer.jupyter.org/github/lorarjohns/prosecutors_fallacy/blob/master/Prosecutors_Fallacy.ipynb).)
 
 Common sense, it would seem, is hardly common--a problem which the judicial system should take much more seriously than it does.
