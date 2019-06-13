@@ -45,7 +45,7 @@ Coincidentally, the same man who invented the lie detector later created _Wonder
 
 ![lasso.jpg](lasso.jpg)
 
-*Coincidence?*
+*What are the odds?*
 
 William Moulton Marston debuted his invention in the case of [James Alphonso Frye](https://www.yalelawjournal.org/essay/on-evidence-proving-frye-as-a-matter-of-law-science-and-history), who was accused of murder in 1922.
 
