@@ -95,7 +95,7 @@ What the polygraph examiner really wants to know is not P(+|L), which is the acc
 
 P(L|+) = P(+|L)P(L) / P(+) 
 
-To figure out what P(+) is _a posteriori_ (independent of our prior knowledge of whether or not someone was lying), we need to compute the total sample space of the event of testing positive using the [Law of Total Probability](https://www.statisticshowto.datasciencecentral.com/total-probability-rule/):
+To figure out what P(+) is independent of our prior knowledge of whether or not someone was lying, we need to compute the total sample space of the event of testing positive using the [Law of Total Probability](https://www.statisticshowto.datasciencecentral.com/total-probability-rule/):
 
 P(L|+) = P(+|L)P(L) / P(+|L)P(L) + P(+|L^c)P(L^c)
 
@@ -159,7 +159,7 @@ The _Frye_ court ruled that the polygraph test could not be trusted as evidence.
 
 # "Suspicious" Deaths
 
-Unfortunately, this statistical reasoning error runs rampant in the criminal justice system and corrupts criminal cases that rely on everything from fingerprints to DNA evidence to cell tower data. What's worse, courts often reject the expert testimony of statisticians because "it's not rocket science"–it's "common sense":
+This statistical reasoning error runs rampant in the criminal justice system and corrupts criminal cases that rely on everything from fingerprints to DNA evidence to cell tower data. What's worse, courts often reject the expert testimony of statisticians because "it's not rocket science"–it's "common sense":
 
 + In the Netherlands, a nurse named [Lucia de Berk](https://arxiv.org/pdf/math/0607340.pdf) went to prison for life because she had been proximate to "suspicious" deaths that a statistical expert calculated had less than a 1 in 342 million chance of being random. The calculation, tainted by the prosecutor's fallacy, was incorrect. The true figure was more like 1 in 50 (or even 1 in 5). What's more, many of the "incidents" were only marked suspicious _after_ investigators knew that she had been close by.
 
@@ -1261,7 +1261,7 @@ After accounting for the discrepancies in the data, we can calculate that respir
 
 The average number of respiratory arrests per month unaccompanied by cardiac failure is approximately 1-2, with large fluctuations. That's not particularly rare, and certainly not rare enough to send a nurse to prison for life. (You can read more about the case and this data [here](https://arxiv.org/abs/1407.2731).)
 
-Common sense, it would seem, is hardly common–a problem which the judicial system should take much more seriously than it does.
+Common sense, it would seem, is hardly common--a problem which the judicial system should take much more seriously than it does.
 
 
 ```python
