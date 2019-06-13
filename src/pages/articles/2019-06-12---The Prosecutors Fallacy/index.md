@@ -1254,26 +1254,10 @@ After accounting for the discrepancies in the data, we can calculate that respir
     </tr>
   </tbody>
 </table>
-<p>98 rows × 9 columns</p>
 </div>
 
-
+![png](output_29_1.png)
 
 The average number of respiratory arrests per month unaccompanied by cardiac failure is approximately 1-2, with large fluctuations. That's not particularly rare, and certainly not rare enough to send a nurse to prison for life. (You can read more about the case and this data [here](https://arxiv.org/abs/1407.2731).)
 
 Common sense, it would seem, is hardly common--a problem which the judicial system should take much more seriously than it does.
-
-
-```python
-plt.plot(compdf.groupby(['Year','Month']).mean()['RespED'].values)
-```
-
-
-
-
-    [<matplotlib.lines.Line2D at 0x7fa380b35630>]
-
-
-
-
-![png](output_29_1.png)
