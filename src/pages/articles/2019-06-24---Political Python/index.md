@@ -1,5 +1,5 @@
 ---
-title: Political Python - Scraping Congressional documents with Scrapy
+title: Political Python: Scraping Congressional documents with Scrapy
 date: "2019-06-24T08:42:00.000Z"
 layout: post
 draft: false
