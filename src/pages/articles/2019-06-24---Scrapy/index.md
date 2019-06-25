@@ -1,9 +1,9 @@
 ---
-title: Should We Code in English?
-date: "2019-05-14T08:42:00.000Z"
+title: Political Python: Scraping Congressional documents with Scrapy
+date: "2019-06-24T08:42:00.000Z"
 layout: post
 draft: false
-path: "/posts/should-we-code-in-english/"
+path: "/posts/political-python-scrapy/"
 category: "Gatsby"
 tags:
   - "Coding"
@@ -12,6 +12,7 @@ tags:
   - "Webscraping"
   - "Data-science"
   - "Tika"
+  - "Scrapy"
 description: "In which the author builds a spider to crawl the U.S. Congressional Record"
 ---
 # Political Python
