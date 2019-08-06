@@ -27,11 +27,11 @@ module.exports = {
     author: {
       name: 'Lora Johns',
       email: 'lora.r.johns@gmail.com',
-      twitter: 'https://twitter.com/biblioniffler',
+      twitter: 'lorarjohns',
       telegram: '#',
-      github: 'https://github.com/lorarjohns',
+      github: 'lorarjohns',
       rss: '#',
-      vk: 'https://vk.com/id542624523',
+      vk: 'id542624523',
 
     },
   },
