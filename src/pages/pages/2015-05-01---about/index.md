@@ -4,11 +4,17 @@ layout: page
 path: "/about"
 ---
 
-Hi, I'm Lora. I am a data scientist with a degree in linguistics from Dartmouth College and a J.D. from Yale Law School.
-After clerking and practicing for a while as a lawyer, I got my master's degree in library and information science from Simmons University.
+Lora Johns
+J.D., M.L.I.S.
 
-That's where I started studying Python, SQL, and database design and management, and realized I could leverage my linguistics background and my law knowledge to do cool things with legal data.
+Data Science | Machine Learning
 
 ![A photo of some books and stuff.](./1.jpg)
 
-*A photo of some books and stuff.*
+"You never change things by fighting the existing reality.
+
+
+To change something, build a new model that makes the existing model obsolete."
+
+
+R. Buckminster Fuller
